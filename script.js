@@ -10,7 +10,7 @@ document.getElementById("year").textContent = new Date().getFullYear();
 
 // IMPORTANT: Replace this with your WhatsApp number including country code.
 // Example for India: 919876543210
-const whatsappNumber = "919999999999";
+const whatsappNumber = "916361154188";
 const message = encodeURIComponent("Hi Heggar Sports! I want to order custom jerseys for my team.");
 const whatsappLink = `https://wa.me/${whatsappNumber}?text=${message}`;
 
